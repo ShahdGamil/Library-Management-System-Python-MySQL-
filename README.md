@@ -8,17 +8,18 @@ It manages **member registration, book inventory, borrowing/returning processes,
 - **Library Operations**: Member registration, book management, borrowing/returns, staff and event management, fine tracking.  
 - **Database Design**: ERD and relational model, normalized to **BCNF**.  
 - **SQL Features**: Views, stored procedures, triggers, and custom functions for fines and audit trails.  
-- **GUI (Tkinter)**: Interactive dashboard, management interfaces, real-time reports with charts, and robust error handling.  
-📌 Use Cases
+- **GUI (Tkinter)**: Interactive dashboard, management interfaces, real-time reports with charts, and robust error handling.
+  
+## 📌 Use Cases
 
-Academic and public libraries
-University and school library systems
-Digital transformation of library operations
-Learning project for database and GUI development
+- Academic and public libraries
+- University and school library systems
+- Digital transformation of library operations
+- Learning project for database and GUI development
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-Python (Tkinter)
-MySQL
-SQL (Views, Triggers, Stored Procedures, Functions)
-Matplotlib (Reports & Charts)
+- Python (Tkinter)
+- MySQL
+- SQL (Views, Triggers, Stored Procedures, Functions)
+- Matplotlib (Reports & Charts)
